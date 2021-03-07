@@ -1,0 +1,19 @@
+# Created by .ignore support plugin (hsz.mobi)
+*.class
+target
+test-output
+.settings
+.project
+.classpath
+.DS_Store
+.idea
+*.iml
+*.log
+bin
+*.log.*
+*.repository
+
+*_res.yaml
+/workspace.xml
+/app/test/log.txt
+
